@@ -1,4 +1,4 @@
-# Vudu Services Default Parachute
+# FiveM Default Parachute
 
 This is a simple script that changes the default parachute that a player uses.
 
@@ -7,3 +7,26 @@ Normally the game defaults to using the rainbow parachute.
 ## Parachute IDs
 
 You can find all parachute ids [Here](https://docs.fivem.net/natives/?_0x75D3F7A1B0D9B145).
+
+## IDs
+
+| ID  | Colour |
+| ------------- |:-------------:|
+| 0 | Rainbow |
+| 1 | Red |
+| 2 | SeasideStripes |
+| 3 | Widowmaker |
+| 4 | Patriot |
+| 5 | Blue |
+| 6 | Black |
+| 7 | Hornet | 
+| 8 | Airforce |
+| 9 | Desert | 
+| 10 | Shadow | 
+| 11 | High Altitude | 
+| 12 | Airbone |
+| 13 | Sunrise |
+
+## Support
+
+If you need help contact me on discord.
