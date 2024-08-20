@@ -4,11 +4,11 @@ This is a simple script that changes the default parachute that a player uses.
 
 Normally the game defaults to using the rainbow parachute.
 
+## Support
+
+If you need help contact me on discord.
+
 ## Parachute IDs
-
-You can find all parachute ids [Here](https://docs.fivem.net/natives/?_0x75D3F7A1B0D9B145).
-
-## IDs
 
 | ID  | Colour |
 | ------------- |:-------------:|
@@ -26,7 +26,3 @@ You can find all parachute ids [Here](https://docs.fivem.net/natives/?_0x75D3F7A
 | 11 | High Altitude | 
 | 12 | Airbone |
 | 13 | Sunrise |
-
-## Support
-
-If you need help contact me on discord.
